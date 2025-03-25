@@ -4,7 +4,7 @@
 
 ## [2. Preparando mi ambiente de estudio](./preparandoMiAmbienteEstudio.md)
 
-## [3. La shell de Linux]()
+## [3. La shell de Linux](./laShellLinux.md)
 
 ## [4. Sistema de ficheros]()
 
