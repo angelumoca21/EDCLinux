@@ -42,6 +42,8 @@
         cat: Muestra el contenido de un archivo.
         nano o vim: Editores de texto en línea de comandos.
         ```
+        [Ejercicios](./ejercicio3.md)
+
     - ## 3.3 Atajos útiles en la shell
         ```
         Ctrl + C: Detiene un proceso en ejecución.
