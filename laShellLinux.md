@@ -53,5 +53,35 @@
         ```
 
     - ## 3.4 Comandos compresión y descompresión: tar, gzip, zip, unzip
-    - ## 3.5 Comandos avanzados: grep, find, sort, wc, head, tail.
-    
+        ![TablaComandosCompresion](./imagenes/comandosCompresion.png)
+    - ## 3.5 Comandos avanzados: grep, find, sort, wc, head, tail
+        - **grep:** permite buscar patrones (palabras, frases o expresiones regulares) en archivos o en la salida de otros comandos.
+        ```
+        grep "Angel" archivo_grande.txt 
+        ```  
+        - **find:** busca archivos y directorios en un sistema de archivos basándose en criterios como nombre, tipo, tamaño, fecha, etc.
+        ```
+        find /home -name "archivo_grande.txt"
+        ```
+        - **sort:** ordena las líneas de un archivo o la salida de un comando.
+        ```
+        sort archivo.txt
+        ```
+            - sort -n numeros.txt
+            - sort -r nombres.txt
+        - **wc:** (word count) cuenta la cantidad de líneas, palabras o caracteres en un archivo.
+            -l: Cuenta líneas.
+            -w: Cuenta palabras.
+            -c: Cuenta bytes.
+            -m: Cuenta caracteres.
+            ```
+            wc archivo.txt
+            ```
+        - **head:** Mostrar las primeras 10 líneas de un archivo.
+        ```
+        head archivo.text
+        ```
+        - **tail:** muestra las últimas 10 líneas de un archivo.
+        ```
+        tail archivo.text
+        ```
