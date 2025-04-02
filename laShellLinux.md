@@ -42,7 +42,7 @@
         cat: Muestra el contenido de un archivo.
         nano o vim: Editores de texto en línea de comandos.
         ```
-        [Ejercicios](./ejercicio3.md)
+        [Ejercicios](./archivosApoyo/ejercicio3.md)
 
     - ## 3.3 Atajos útiles en la shell
         ```
@@ -85,3 +85,4 @@
         ```
         tail archivo.text
         ```
+    ## [Programación con la shell](https://www.freecodecamp.org/espanol/news/tutorial-de-programacion-de-bash-script-de-shell-de-linux-y-linea-de-comandos-para-principiantes/#bash-definition)

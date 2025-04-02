@@ -16,13 +16,13 @@
 
     - XFS, Btrfs: Más avanzados, usados en servidores.
 
-    - ## 4.1. Ruta absoluta
+- ## 4.1. Ruta absoluta
     Es la ruta completa desde la raíz (/) hasta el archivo o directorio.
     Siempre comienza con /.
     ```
     /home/usuario/documentos/proyecto.txt
     ```
-    - ## 4.2. Ruta relativa
+- ## 4.2. Ruta relativa
     Es la ruta desde la ubicación actual hacia el archivo o directorio.
     No comienza con /.
     ```
