@@ -10,7 +10,7 @@
 
 ## [5. Permisos y usuarios en Linux](./permisosUsuarios.md)
 
-## [6. Gestión de procesos]()
+## [6. Gestión de procesos](./gestionProcesos.md)
 
 ## [7. Networking en Linux]()
 
