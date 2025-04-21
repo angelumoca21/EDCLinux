@@ -12,6 +12,6 @@
 
 ## [6. Gestión de procesos](./gestionProcesos.md)
 
-## [7. Networking en Linux]()
+## [7. Networking en Linux](./networkingEnLinux.md)
 
 ### [Moodle](https://educacion.pilares.cdmx.gob.mx/)
